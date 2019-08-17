@@ -10,7 +10,7 @@ left_rows = [('Total Assets', 1),
              ('Other Current Liabilities', 1)]
 
 right_rows = [('Total Liabilities', 1),
-              ('Total Stockholder Equity', +1),
+              ('Total stockholders\' equity', +1),
               ('Cash And Cash Equivalents', -1),
               ('Total Current Liabilities', -1),
               ('Short/Current Long Term Debt', 1),
